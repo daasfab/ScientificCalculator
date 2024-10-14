@@ -1,12 +1,12 @@
-# Scientific Calculator in Assembly
+# Scientific Calculator in Assembly 🧮
 
-## ❔ What is it
+## What is it ❔ 
 
 Regular calculator capable of performing all calculations that your iPhone can, with a few more options to make it capable of solving complex engineering/scientific problems. 
 
 ---
 
-## 👨🏻‍💻 Dev Process
+## Dev Process 👨🏻‍💻 
 
 A few facts about Assembly before I begin coding:  
 <br>
