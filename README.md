@@ -4,7 +4,7 @@
 
 Regular calculator capable of performing all calculations that your iPhone can, with a few more options to make it capable of solving complex engineering/scientific problems. 
 
----
+<br>
 
 ## Dev Process 👨🏻‍💻 
 
